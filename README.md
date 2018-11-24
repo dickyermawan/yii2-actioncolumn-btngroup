@@ -37,10 +37,10 @@ Once the extension is installed, simply use it in your code by  :
 ],
 
 ```
-#### Note: type and label are optional.
+### Note: type and label are optional. try it yourself to know
 
 
-Screenshots__
+Screenshots<br />
 ![Screenshoot Role](screenshots/1.PNG "Horizontal")
 ![Screenshoot Role](screenshots/2.PNG "Horizontal Labeled")
 ![Screenshoot Role](screenshots/3.PNG "Vertical")
