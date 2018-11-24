@@ -27,5 +27,21 @@ Usage
 
 Once the extension is installed, simply use it in your code by  :
 
-```php
-<?= \dickyermawan\ActionColumn\AutoloadExample::widget(); ?>```
+```
+// some code in GridView columns
+
+[
+    'class' => 'dickyermawan\ActionColumn\BtnGroup',
+    'type' => 'vertical',
+    'label' => ['Lihat', 'Ubah', 'Hapus']
+],
+
+```
+Note: type and label are optional.
+
+
+Screenshots
+![Screenshoot Role](screenshots/1.png "Horizontal")
+![Screenshoot Role](screenshots/2.png "Horizontal Labeled")
+![Screenshoot Role](screenshots/3.png "Vertical")
+![Screenshoot Role](screenshots/4.png "Vertical Labeled")
