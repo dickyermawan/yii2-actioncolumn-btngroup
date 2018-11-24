@@ -1,0 +1,21 @@
+{
+    "name": "dickyermawan/yii2-actioncolumn-btngroup",
+    "description": "ActionColumn with Button Group Style of Bootstrap",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","action column"," button group"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dicky Ermawan S",
+            "email": "wanasaja@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dickyermawan\\ActionColumn\\": ""
+        }
+    }
+}
