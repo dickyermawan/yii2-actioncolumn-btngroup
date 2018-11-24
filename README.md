@@ -41,7 +41,7 @@ Note: type and label are optional.
 
 
 Screenshots
-![Screenshoot Role](screenshots/1.png "Horizontal")
-![Screenshoot Role](screenshots/2.png "Horizontal Labeled")
-![Screenshoot Role](screenshots/3.png "Vertical")
-![Screenshoot Role](screenshots/4.png "Vertical Labeled")
+![Screenshoot Role](screenshots/1.PNG "Horizontal")
+![Screenshoot Role](screenshots/2.PNG "Horizontal Labeled")
+![Screenshoot Role](screenshots/3.PNG "Vertical")
+![Screenshoot Role](screenshots/4.PNG "Vertical Labeled")
