@@ -72,8 +72,8 @@ class BtnGroup extends \yii\grid\ActionColumn
                     'data-confirm' => Yii::t('yii', 'Are you sure you want to delete this item?'),
                     'data-method' => 'post',
                     'data-pjax' => '0',
+                    'data-key' => $model->id,
                     'class' => 'btn btn-danger',
-                    
                 ]);
             };
         }
