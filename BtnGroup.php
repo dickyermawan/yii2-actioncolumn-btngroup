@@ -73,6 +73,7 @@ class BtnGroup extends \yii\grid\ActionColumn
                     'data-method' => 'post',
                     'data-pjax' => '0',
                     'class' => 'btn btn-danger',
+                    
                 ]);
             };
         }
